@@ -1,4 +1,4 @@
-package org.example.testpackage;
+package org.example.Arrays;
 
 public class ArrayMethods {
     public int findIndex(int[] arr,int num)
@@ -15,6 +15,10 @@ public class ArrayMethods {
         return index;
     }
 
+    public void printArrays(int[] arr,int index)
+    {
+        System.out.println(arr[index]);
+    }
 
     public boolean searchNumber(int[] arr,int num)
     {
