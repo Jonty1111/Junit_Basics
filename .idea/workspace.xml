@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de26db86-3b87-46d8-92ff-47ad74e13465" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="de26db86-3b87-46d8-92ff-47ad74e13465" name="Changes" comment="First Push">
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestLifeCycle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Arrays/ArrayMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Arrays/ArrayMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ArrayTesting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayTesting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,16 +42,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.ArrayTesting.multipleFindIndex">
-    <configuration name="ArrayTesting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Junit_Basics" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ArrayTesting" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.TestLifeCycle.searchNumberTest">
     <configuration name="ArrayTesting.findIndexOutOfBound" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Junit_Basics" />
       <option name="PACKAGE_NAME" value="" />
@@ -96,13 +83,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestLifeCycle.searchNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Junit_Basics" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestLifeCycle" />
+      <option name="METHOD_NAME" value="searchNumberTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestLifeCycle.searchNumberTest" />
         <item itemvalue="JUnit.ArrayTesting.multipleFindIndex" />
         <item itemvalue="JUnit.ArrayTesting.findIndexOutOfBound" />
         <item itemvalue="JUnit.ArrayTesting.searchNumberTest" />
         <item itemvalue="JUnit.ArrayTesting.testAsserts" />
-        <item itemvalue="JUnit.ArrayTesting" />
       </list>
     </recent_temporary>
   </component>
@@ -115,6 +112,21 @@
       <option name="presentableId" value="Default" />
       <updated>1665461338768</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Push">
+      <created>1665465915672</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665465915672</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First Push">
+      <created>1665465935823</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665465935823</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,5 +139,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Push" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Push" />
   </component>
 </project>
